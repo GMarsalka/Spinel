@@ -1,2 +1,2 @@
 # Spinel
-Draft for a tool to use during synchrotron X-ray diffraction experiments
+A draft for DAWN a plug-in to use during synchrotron X-ray diffraction experiments for a real time result visualisation. 
